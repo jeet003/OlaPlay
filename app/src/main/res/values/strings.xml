@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OlaMusicPlay</string>
+
+        <string name="action_settings">Settings</string>
+        <string name="toolbar_title">Songs</string>
+        <string name="action_search">Search</string>
+        <string name="search_hint">Type song…</string>
+        <string name="toolbar_player">Music Player</string>
+        <string name="check_storage_permission_text">Please allow storage permissions to Download File</string>
+        <string name="download">&#xf019;</string>
+</resources>
